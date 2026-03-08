@@ -1,20 +1,38 @@
-<h1 align="center">Hi 👋, I'm Hassan Abdurehman</h1>
-<h3 align="center">Passionate about coding and problem-solving | Driven to make an impact through innovative projects | Constantly learning and growing in the field of AI.</h3>
+# Hi there, I'm Hassan Abdurehman 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanab1&label=Profile%20views&color=0e75b6&style=flat" alt="hassanab1" /> </p>
+I'm a student passionate about **Artificial Intelligence** and **Machine Learning**, currently on a journey to turn data into meaningful insights.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassanab1" alt="hassanab1" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Front-End Development**
+## 🧠 About Me
 
-- 📫 How to reach me **alphabeast9972@gmail.com**
+- 🎓 Student diving deep into the world of AI & ML
+- 📊 Practicing data analysis and building projects to sharpen my skills
+- 🌱 Currently learning Machine Learning concepts and data workflows
+- 📍 Based in Pakistan
 
-- ⚡ Fun fact **When I'm not busy coding or designing, I love exploring new tech gadgets and finding creative ways to integrate them into everyday life!**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hassan-abdurehman-174302277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan-abdurehman-174302277" height="30" width="40" /></a>
-</p>
+## 🛠️ Skills & Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**Languages**
+`Python` `SQL`
+
+**Libraries**
+`Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+**Tools**
+`Jupyter Notebook` `Git` `GitHub` `Kaggle` `VS Code`
+
+---
+
+## 📂 Latest Projects
+
+| Project | Description |
+|--------|-------------|
+| [Pakistan-House-Pricing-Exploratory-Data-Analysis](https://github.com/hassanab1/Pakistan-House-Pricing-Exploratory-Data-Analysis) | Exploratory data analysis on Pakistan's real estate market using Kaggle data |
+| [Titanic Survival Analysis](https://github.com/hassanab1/Titanic-EDA-Analysis) | An Exploratory Data Analysis project investigating the factors that influenced survival rates on the Titanic|	
+| [Tic-Tac-Toe Game](https://github.com/hassanab1/Tic-Tac-Toe)| This repository contain code of Tic-Tac-Toe game made with JS along side HTML and CSS |
+
+
+*"Learning every day, one dataset at a time."* 🚀
